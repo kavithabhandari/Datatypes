@@ -15,12 +15,17 @@ public class DTDemo {
 		 
 		 DTDemo dtd = new DTDemo();
 		 String str = new String();
+		 
 		 int add=bt+sht;
+		 
 		 int subtract=myint-sht;
 		 
 		 long multiply=lng*myint;
+		 
 		 double divide=myfloat%mydouble;
 		 
+		 //printing results of arithematic operations
+		 System.out.println("addition (byte + short) = " + add);
 	}
 
 }
