@@ -5,8 +5,10 @@ public class StringLiteralsVsObjects {
 		String str1 = "kavitha";
 		String str2 = new String("kavitha");
 		String str3 = "kavitha";
+		
 		System.out.println(str1==str3);
 		
+		System.out.println(str1==str2);
 	}
 	
 
