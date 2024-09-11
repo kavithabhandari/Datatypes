@@ -16,6 +16,7 @@ public class DTDemo {
 		 DTDemo dtd = new DTDemo();
 		 String str = new String();
 		 int add=bt+sht;
+		 int subtract=myint-sht;
 		 
 		 
 	}
