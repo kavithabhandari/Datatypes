@@ -24,8 +24,10 @@ public class DTDemo {
 		 
 		 double divide=myfloat%mydouble;
 		 
-		 //printing results of arithematic operations
+		 //printing results of arithmetic operations
 		 System.out.println("addition (byte + short) = " + add);
+		 System.out.println("subtraction (int - short) = " + subtract);
+		 System.out.println("multiply (long * int) = " + multiply);
 	}
 
 }
