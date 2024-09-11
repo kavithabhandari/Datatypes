@@ -19,7 +19,7 @@ public class DTDemo {
 		 int subtract=myint-sht;
 		 
 		 long multiply=lng*myint;
-		 
+		 double divide=myfloat%mydouble;
 		 
 	}
 
