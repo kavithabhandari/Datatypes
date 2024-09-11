@@ -18,6 +18,8 @@ public class DTDemo {
 		 int add=bt+sht;
 		 int subtract=myint-sht;
 		 
+		 long multiply=lng*myint;
+		 
 		 
 	}
 
