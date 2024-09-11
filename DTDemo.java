@@ -28,6 +28,7 @@ public class DTDemo {
 		 System.out.println("addition (byte + short) = " + add);
 		 System.out.println("subtraction (int - short) = " + subtract);
 		 System.out.println("multiply (long * int) = " + multiply);
+		 
 	}
 
 }
